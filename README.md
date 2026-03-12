@@ -8,6 +8,8 @@ i will assemble all the parts and flash the included firmware onto the microcont
 I built this keyboard to learn more about PCB design and hardware projects. 
 It was also a fun way to create something useful for everyday typing and coding.
 
+# FREE CAD SOURCE FILE 
+https://drive.google.com/file/d/12_W3RLfMG-1RPRBY-lCzNgEydRGdCt5x/view?usp=drive_link
 
 <img width="1286" height="550" alt="PCB 3D VIEW" src="https://github.com/user-attachments/assets/06a75bb9-a0eb-4b7b-ae28-4dcdfaf2edb1" />
 <img width="814" height="577" alt="DRC ( 0 ERROR )" src="https://github.com/user-attachments/assets/cbab4679-64cb-4030-80b4-2d0bd96ac43f" />
