@@ -23,3 +23,12 @@ https://drive.google.com/file/d/12_W3RLfMG-1RPRBY-lCzNgEydRGdCt5x/view?usp=drive
 <img width="968" height="370" alt="PLATE" src="https://github.com/user-attachments/assets/00c6d3fb-9c61-47fc-9263-4beb087e1ad4" />
 <img width="882" height="417" alt="TOP" src="https://github.com/user-attachments/assets/4b8d1457-437d-4996-900a-f5349f687b32" />
 <img width="1688" height="625" alt="Screenshot 2026-03-12 183719" src="https://github.com/user-attachments/assets/a588acd8-5091-4b68-aa5a-1ea626c6a1fc" />
+Component,Quantity,Description,Price (USD),Supplier,Link
+Raspberry Pi Pico,1,RP2040 microcontroller board used to control the keyboard,$8.34,Amazon,https://amzn.in/d/0fqm6Hu0
+Gateron KS-9 Key Switches,81,Mechanical keyboard switches for each key,$26.37,Amazon,https://amzn.in/d/0cwz2P6f
+1N4148 Diode,81,Signal diode used in keyboard matrix to prevent ghosting,$2.74,Amazon,https://amzn.in/d/0dybXXSo4
+M3x16mm Screws,50,Screws used to mount keyboard case and PCB,$2.23,Amazon,https://amzn.in/d/06ymnZXY
+Mechanical Keyboard Keycap Set,81,Keycaps used for mechanical keyboard switches,$16.69,Amazon,https://amzn.in/d/022G7hkw
+Cherry Clip-in Stabilizers,1,Stabilizer kit for large keys,$10.98,Keebsmod,https://www.keebsmod.com/products/cherry-clip-in-stabilizers
+Custom Keyboard PCB,1,Custom PCB manufactured for the keyboard,$28.85,JLCPCB,Cart screenshot in README
+Total Project Cost,,Sum of all components,$96.20,,
